@@ -1,101 +1,89 @@
-<!-- Header -->
-[![Terminal Portfolio](https://img.shields.io/badge/▶_Open_Terminal_Portfolio-6366f1?style=for-the-badge&logoColor=white)](https://prathamj07.github.io)
-<div align="center">
+<!-- ───────────────────────────────────────────────────────────
+     PRATHAM JOSHI · github profile
+     banner lives at assets/header.svg — keep them together
+─────────────────────────────────────────────────────────── -->
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  $ whoami                                                   │
-│  > pratham joshi                                            │
-│                                                             │
-│  $ cat role.txt                                             │
-│  > AI & Backend Engineer @ WeDecode.io                      │
-│  > Building gym infrastructure for agentic AI training      │
-│                                                             │
-│  $ echo $STACK                                              │
-│  > Python · LLMs · RL · Flask · FastAPI · Docker           │
-└─────────────────────────────────────────────────────────────┘
-```
+<a href="https://prathamj07.github.io">
+  <img src="./assets/header.svg" alt="Pratham Joshi — AI & Backend Engineer · 22.72°N 75.86°E · Indore" width="100%" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratham%20Joshi-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/pratham-joshi-7b7516172)
-[![Email](https://img.shields.io/badge/Email-prathamj7703%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:prathamj7703@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-s0mQSFPer6-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/s0mQSFPer6)
-
-</div>
+<p align="center">
+  <a href="https://prathamj07.github.io"><img src="https://img.shields.io/badge/%E2%96%B6-field_notes-f0a85f?style=flat-square&labelColor=0a0c0f" alt="Portfolio" /></a>&nbsp;
+  <a href="https://linkedin.com/in/pratham-joshi-7b7516172"><img src="https://img.shields.io/badge/LinkedIn-pratham--joshi-6fe6f7?style=flat-square&labelColor=0a0c0f&logo=linkedin&logoColor=6fe6f7" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:prathamj7703@gmail.com"><img src="https://img.shields.io/badge/Email-prathamj7703-7b8794?style=flat-square&labelColor=0a0c0f&logo=gmail&logoColor=f0a85f" alt="Email" /></a>&nbsp;
+  <a href="https://leetcode.com/u/s0mQSFPer6"><img src="https://img.shields.io/badge/LeetCode-s0mQSFPer6-7b8794?style=flat-square&labelColor=0a0c0f&logo=leetcode&logoColor=f0a85f" alt="LeetCode" /></a>
+</p>
 
 ---
 
-## What I actually do
+### `❯ whoami`
 
-I'm a CS undergrad (AI/ML honors, CGPA 9.5) at IPS Academy, Indore — graduating June 2026.
+CS undergrad — AI/ML honors, CGPA 9.5 at IPS Academy, Indore — graduating June 2026.
 
-At [WeDecode.io](https://wedecode.io), I build backend infrastructure for **gym environments** used to train and evaluate AI agents. That means synthetic data generation with LLMs, RL-based evaluation pipelines, and integrating open-source SaaS stacks (OpenEMR, Frappe, Rocket.Chat) into controllable, production-like worlds that agents can actually operate in.
+At **[WeDecode.io](https://wedecode.io)** I build the backend for **gym environments** that train and evaluate AI agents: synthetic data generation with LLMs, RL-based evaluation pipelines, and open-source SaaS stacks (OpenEMR, Frappe, Rocket.Chat) wired into controllable, production-like worlds an agent can actually operate inside.
 
-Before that: an OCR + blockchain document verification pipeline at THDC India, and an LLM-powered lead-gen system at Valency Renewable — 8K+ records, 35% efficiency lift.
+Before that — an OCR + blockchain document-verification pipeline at **THDC India**, and an LLM lead-gen system at **Valency Renewable** (8K+ records, ~35% efficiency lift).
 
----
-
-## Projects worth looking at
-
-### 🧠 [Recall](https://github.com/Prathamj07/recall) — AI Knowledge Management Platform
-`React 18` `TypeScript` `Supabase` `pgvector` `Gemini 2.5` `GPT-5` `KaTeX` `Deno`
-
-Semantic knowledge base with RAG over six content types, a conversational memory assistant, real-time handwritten math recognition with step-by-step solving, and an automated slide deck generator from a single topic input.
+I shoot photographs and write the rest of the time. The portfolio carries those.
 
 ---
 
-### 🎙️ [Anuvaad AI](https://github.com/Prathamj07/anuvaad-ai) — Multilingual Dubbing Studio
-`Python` `Flask` `Whisper ASR` `Coqui-TTS` `ElevenLabs` `LangChain`
+### `❯ ls projects/`
 
-End-to-end dubbing pipeline — speech recognition → neural translation → voice cloning — across 50+ languages. Also ships an article-to-podcast converter with web scraping and TTS generation.
+**🧠 [Recall](https://github.com/Prathamj07/recall)** — AI knowledge-management platform
+> Semantic RAG over six content types, a conversational memory assistant, real-time handwritten-math recognition with step-by-step solving, and a slide-deck generator from a single topic.
+> `React 18` · `TypeScript` · `Supabase` · `pgvector` · `Gemini 2.5` · `GPT-5` · `KaTeX` · `Deno`
+
+**🎙️ [Anuvaad AI](https://github.com/Prathamj07/anuvaad-ai)** — multilingual dubbing studio
+> Speech recognition → neural translation → voice cloning across 50+ languages. Ships an article-to-podcast converter alongside it.
+> `Python` · `Flask` · `Whisper` · `Coqui-TTS` · `ElevenLabs` · `LangChain`
+
+**📋 [AcadBoost](https://github.com/Prathamj07/acadboost)** — academic profiles + AI résumé engine
+> Role-based records with automated LaTeX résumé generation (94% ATS compliance) and an analyzer that tells you *why* a résumé fails ATS, not just that it does.
+> `Python` · `Streamlit` · `Gemini` · `MongoDB` · `LaTeX` · `LangChain`
 
 ---
 
-### 📋 [AcadBoost](https://github.com/Prathamj07/acadboost) — Academic Profile + AI Resume Engine
-`Python` `Streamlit` `Gemini API` `MongoDB` `LaTeX` `LangChain`
-
-Role-based academic record platform with automated LaTeX resume generation (94% ATS compliance) and an AI analyzer that actually tells you *why* your resume fails ATS, not just that it does.
-
----
-
-## Stack
+### `❯ cat stack.py`
 
 ```python
 stack = {
-    "languages":    ["Python", "C++", "SQL"],
-    "ml_ai":        ["PyTorch", "TensorFlow", "Scikit-learn", "LLMs", "RAG", "RL"],
-    "frameworks":   ["FastAPI", "Flask", "LangChain", "Hugging Face", "Django"],
-    "databases":    ["PostgreSQL", "MongoDB", "Redis", "Supabase", "pgvector"],
-    "infra":        ["Docker", "GitHub Actions", "Google Cloud", "Git"],
-    "tools":        ["Pandas", "NumPy", "Selenium", "Power BI", "Postman"],
+    "languages":  ["Python", "C++", "SQL"],
+    "ml_ai":      ["PyTorch", "TensorFlow", "Scikit-learn", "LLMs", "RAG", "RL"],
+    "frameworks": ["FastAPI", "Flask", "LangChain", "Hugging Face", "Django"],
+    "data":       ["PostgreSQL", "MongoDB", "Redis", "Supabase", "pgvector"],
+    "infra":      ["Docker", "GitHub Actions", "Google Cloud", "Git"],
+    "tools":      ["Pandas", "NumPy", "Selenium", "Power BI", "Postman"],
 }
 ```
 
 ---
 
-## Recognition
+### `❯ git log --grep="recognition"`
 
-**Smart India Hackathon (SIH)** — Government of India
+**Smart India Hackathon** · Government of India
 
-| Year | Result | What we built |
-|------|--------|---------------|
-| 2025 | 🏅 National Finalist | Selected under Ministry of Home Affairs |
-| 2024 | 🏅 National Finalist | AI-driven cybersecurity solution · top team among 15K+ |
-| 2023 | 🥇 Winner | Blockchain product verification system · 1st among 250+ teams |
-
----
-
-## GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.shion.dev/api?username=Prathamj07&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![Streak](https://streak-stats.demolab.com/?user=Prathamj07&theme=github_dark&hide_border=true)
-
-</div>
+| Year | Result | Build |
+|:----:|:-------|:------|
+| `2025` | 🏅 National Finalist | selected under the Ministry of Home Affairs |
+| `2024` | 🏅 National Finalist | AI-driven cybersecurity solution · top team of 15K+ |
+| `2023` | 🥇 **Winner** | blockchain product-verification system · 1st of 250+ teams |
 
 ---
 
-<div align="center">
-<sub>📍 Indore, India · Open to roles starting July 2026</sub>
-</div>
+### `❯ uptime`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Prathamj07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0c0f&title_color=6fe6f7&text_color=ece7dd&icon_color=f0a85f" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Prathamj07&layout=compact&langs_count=8&hide_border=true&bg_color=0a0c0f&title_color=6fe6f7&text_color=ece7dd" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Prathamj07&hide_border=true&background=0a0c0f&stroke=1d2630&ring=6fe6f7&fire=f0a85f&currStreakNum=ece7dd&currStreakLabel=6fe6f7&sideNums=ece7dd&sideLabels=ece7dd&dates=4a5560&excludeDaysLabel=4a5560" alt="Streak" />
+</p>
+
+---
+
+<p align="center">
+  <sub><code>📍 22.72°N 75.86°E · Indore, India</code> &nbsp;·&nbsp; <b>open to roles from July 2026</b></sub>
+</p>
