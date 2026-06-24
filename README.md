@@ -65,34 +65,22 @@ stack = {
 <tr>
 <td align="center" width="25%">
 
-**`2023`**
-🥇 **Winner**
-1st of 250+ teams
-blockchain product-verification system
+**`2023`** 🥇 **Winner**<br>1st of 250+ teams<br>blockchain<br>product-verification system
 
 </td>
 <td align="center" width="25%">
 
-**`2024`**
-🏅 National Finalist
-top team of 15K+
-AI-driven cybersecurity solution
+**`2024`** 🏅 **National Finalist**<br>top team of 15K+<br>AI-driven<br>cybersecurity solution
 
 </td>
 <td align="center" width="25%">
 
-**`2025`**
-🏅 National Finalist
-Ministry of Home Affairs
-e-commerce platform image verification system
+**`2025`** 🏅 **National Finalist**<br>Ministry of Home Affairs<br>e-commerce platform<br>image verification system
 
 </td>
 <td align="center" width="25%">
 
-**`2023`**
-🏆 **Winner**
-Frames · IIT Bombay
-Mood Indigo — online photography competition
+**`2023`** 🏆 **Winner**<br>Frames · IIT Bombay<br>Mood Indigo<br>online photography competition
 
 </td>
 </tr>
