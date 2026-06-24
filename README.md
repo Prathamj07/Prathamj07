@@ -71,18 +71,23 @@ stack = {
 
 ---
 
-### `❯ uptime`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Prathamj07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0c0f&title_color=6fe6f7&text_color=ece7dd&icon_color=f0a85f" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Prathamj07&layout=compact&langs_count=8&hide_border=true&bg_color=0a0c0f&title_color=6fe6f7&text_color=ece7dd" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Prathamj07&hide_border=true&background=0a0c0f&stroke=1d2630&ring=6fe6f7&fire=f0a85f&currStreakNum=ece7dd&currStreakLabel=6fe6f7&sideNums=ece7dd&sideLabels=ece7dd&dates=4a5560&excludeDaysLabel=4a5560" alt="Streak" />
-</p>
-
----
+```
+[PARSE: activity.telemetry]
+```
+ 
+<div align="center">
+<img height="155" src="https://github-readme-stats.shion.dev/api?username=Prathamj07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0c0f&title_color=6fe6f7&text_color=ece7dd&icon_color=f0a85f&border_radius=0" />
+<img height="155" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Prathamj07&layout=compact&langs_count=8&hide_border=true&bg_color=0a0c0f&title_color=6fe6f7&text_color=ece7dd&border_radius=0" />
+</div>
+<div align="center">
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamj07&bg_color=0a0c0f&color=6fe6f7&line=f0a85f&point=ece7dd&area=true&area_color=6fe6f7&hide_border=true" />
+</div>
+<div align="center">
+<img width="55%" src="https://streak-stats.demolab.com/?user=Prathamj07&hide_border=true&background=0a0c0f&stroke=1d2630&ring=6fe6f7&fire=f0a85f&currStreakNum=ece7dd&currStreakLabel=6fe6f7&sideNums=ece7dd&sideLabels=ece7dd&dates=4a5560&excludeDaysLabel=4a5560" />
+</div>
+```
+[END TELEMETRY]
+```
 
 <p align="center">
   <sub><code>📍 22.72°N 75.86°E · Indore, India</code> &nbsp;·&nbsp; <b>open to roles from July 2026</b></sub>
