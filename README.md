@@ -75,14 +75,14 @@ stack = {
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.shion.dev/api?username=Prathamj07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0c0f&title_color=6fe6f7&text_color=ece7dd&icon_color=f0a85f&border_radius=0" />
+<img height="155" src="https://github-readme-stats.shion.dev/api?username=Prathamj07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0c0f&title_color=6fe6f7&text_color=ece7dd&icon_color=f0a85f&border_radius=0&hide_rank=true" />
 <img height="155" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Prathamj07&layout=compact&langs_count=8&hide_border=true&bg_color=0a0c0f&title_color=6fe6f7&text_color=ece7dd&border_radius=0" />
 
 </div>
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-stats.shion.dev/api?username=Prathamj07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0c0f&title_color=6fe6f7&text_color=ece7dd&icon_color=f0a85f&border_radius=0&hide_rank=true
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamj07&bg_color=0a0c0f&color=6fe6f7&line=f0a85f&point=ece7dd&area=true&area_color=6fe6f7&hide_border=true" />
 
 </div>
 
