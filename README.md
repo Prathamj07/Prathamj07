@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratham%20Joshi-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/pratham-joshi-7b7516172)
 [![Email](https://img.shields.io/badge/Email-prathamj7703%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:prathamj7703@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Pratham-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/Pratham)
+[![LeetCode](https://img.shields.io/badge/LeetCode-s0mQSFPer6-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/s0mQSFPer6)
 
 </div>
 
