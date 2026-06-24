@@ -1,0 +1,98 @@
+<svg viewBox="0 0 1200 360" width="1200" height="360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pratham Joshi — AI and Backend Engineer">
+  <title>Pratham Joshi — AI &amp; Backend Engineer</title>
+
+  <defs>
+    <!-- film grain, lifted straight from the portfolio -->
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+    <!-- top-down vignette -->
+    <radialGradient id="vig" cx="50%" cy="0%" r="130%">
+      <stop offset="55%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+    </radialGradient>
+    <!-- accent hairline gradient -->
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6fe6f7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#f0a85f" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6fe6f7"/>
+      <stop offset="100%" stop-color="#f0a85f"/>
+    </linearGradient>
+
+    <style>
+      :root{}
+      .mono{font-family:'JetBrains Mono','SF Mono','Courier New',monospace;}
+      .serif{font-family:'Fraunces','Playfair Display',Georgia,'Times New Roman',serif;}
+      .paper{fill:#ece7dd;} .muted{fill:#7b8794;} .faint{fill:#4a5560;}
+      .cyan{fill:#6fe6f7;} .amber{fill:#f0a85f;} .good{fill:#7fe3a6;}
+
+      /* boot lines fade + lift in, sequenced like the loader.
+         fill-mode backwards holds the hidden first frame during the delay,
+         then they settle to their natural (visible) state — so static
+         renderers that ignore animation still show everything. */
+      .ln{animation:rise .55s cubic-bezier(.2,.7,.2,1) backwards;}
+      .d1{animation-delay:.15s;} .d2{animation-delay:.45s;} .d3{animation-delay:.75s;}
+      .d4{animation-delay:1.05s;} .d5{animation-delay:1.35s;}
+      @keyframes rise{from{opacity:0;transform:translateY(7px);}to{opacity:1;transform:translateY(0);}}
+
+      .name{animation:fadein .9s ease 1.5s backwards;}
+      .tag{animation:fadein .9s ease 1.85s backwards;}
+      @keyframes fadein{from{opacity:0;}to{opacity:1;}}
+
+      /* loading bar fills, like boot-bar i */
+      .load{transform-origin:left center;animation:fill 1.7s cubic-bezier(.2,.7,.2,1) .2s backwards;}
+      @keyframes fill{from{transform:scaleX(0);}to{transform:scaleX(1);}}
+
+      /* blinking caret */
+      .caret{animation:blink 1.05s steps(1) 1.9s infinite;}
+      @keyframes blink{50%{opacity:0;}}
+
+      @media (prefers-reduced-motion: reduce){
+        .ln,.name,.tag{opacity:1;transform:none;animation:none;}
+        .load{transform:scaleX(1);animation:none;}
+        .caret{animation:none;}
+      }
+    </style>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="360" fill="#0a0c0f"/>
+  <rect width="1200" height="360" fill="#12171e" opacity="0.35"/>
+
+  <!-- HUD bar -->
+  <g class="mono" font-size="13" letter-spacing="1.2">
+    <text x="48" y="46" class="paper" font-weight="700">⚡ PRATHAM JOSHI</text>
+    <text x="906" y="46" class="muted">22.72°N 75.86°E <tspan class="amber">· INDORE</tspan></text>
+  </g>
+  <line x1="48" y1="64" x2="1152" y2="64" stroke="#1d2630" stroke-width="1"/>
+
+  <!-- boot sequence -->
+  <g class="mono" font-size="14.5" letter-spacing="0.4">
+    <text x="48" y="116" class="ln d1"><tspan class="faint">$</tspan> <tspan class="muted">boot folio.shell</tspan> <tspan class="cyan">— mounting field notes</tspan></text>
+    <text x="48" y="146" class="ln d2"><tspan class="faint">&gt;</tspan> <tspan class="muted">role</tspan>      <tspan class="paper">AI &amp; Backend Engineer</tspan> <tspan class="faint">@</tspan> <tspan class="amber">WeDecode.io</tspan></text>
+    <text x="48" y="176" class="ln d3"><tspan class="faint">&gt;</tspan> <tspan class="muted">focus</tspan>     <tspan class="paper">gym infrastructure for agentic-AI training</tspan></text>
+    <text x="48" y="206" class="ln d4"><tspan class="faint">&gt;</tspan> <tspan class="muted">stack</tspan>     <tspan class="paper">Python · LLMs · RL · FastAPI · Docker</tspan></text>
+    <text x="48" y="236" class="ln d5"><tspan class="good">[ ok ]</tspan> <tspan class="faint">ready — graduating June 2026, open from July</tspan></text>
+  </g>
+
+  <!-- signature name block -->
+  <g class="name">
+    <text x="48" y="300" class="serif paper" font-size="46" font-weight="340" letter-spacing="-1">building <tspan font-style="italic" class="amber">worlds</tspan> agents can operate in.</text>
+  </g>
+
+  <!-- loading rail + caret -->
+  <g class="tag">
+    <rect x="48" y="324" width="1104" height="2" rx="1" fill="#1d2630"/>
+    <rect x="48" y="324" width="1104" height="2" rx="1" fill="url(#bar)" class="load"/>
+    <text x="48" y="350" class="mono faint" font-size="11.5" letter-spacing="1.4">PYTHON · LLMS · RL · RAG · FLASK · FASTAPI · DOCKER<tspan class="cyan caret" dx="6">▋</tspan></text>
+  </g>
+
+  <!-- grain + vignette on top -->
+  <rect width="1200" height="360" filter="url(#grain)" opacity="0.05" style="mix-blend-mode:screen"/>
+  <rect width="1200" height="360" fill="url(#vig)"/>
+  <!-- accent hairline -->
+  <rect x="0" y="358" width="1200" height="2" fill="url(#rule)"/>
+</svg>
