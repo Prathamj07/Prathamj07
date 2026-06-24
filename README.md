@@ -87,13 +87,8 @@ stack = {
 
 <div align="center">
 
-[![LeetCode](https://leetcard.jacoblin.cool/s0mQSFPer6?theme=dark&font=source_code_pro&ext=heatmap&border=0&radius=0)](https://leetcode.com/u/s0mQSFPer6)
-
-</div>
-
-<div align="center">
-
-<img width="55%" src="https://streak-stats.demolab.com/?user=Prathamj07&hide_border=true&background=0a0c0f&stroke=1d2630&ring=6fe6f7&fire=f0a85f&currStreakNum=ece7dd&currStreakLabel=6fe6f7&sideNums=ece7dd&sideLabels=ece7dd&dates=4a5560&excludeDaysLabel=4a5560" />
+<img height="200" src="https://leetcard.jacoblin.cool/s0mQSFPer6?theme=dark&font=source_code_pro&border=0&radius=0" />
+<img height="200" src="https://streak-stats.demolab.com/?user=Prathamj07&hide_border=true&background=0a0c0f&stroke=1d2630&ring=6fe6f7&fire=f0a85f&currStreakNum=ece7dd&currStreakLabel=6fe6f7&sideNums=ece7dd&sideLabels=ece7dd&dates=4a5560&excludeDaysLabel=4a5560" />
 
 </div>
 
