@@ -1,4 +1,5 @@
 <!-- Header -->
+[![Terminal Portfolio](https://img.shields.io/badge/▶_Open_Terminal_Portfolio-6366f1?style=for-the-badge&logoColor=white)](https://prathamj07.github.io)
 <div align="center">
 
 ```
