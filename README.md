@@ -61,13 +61,54 @@ stack = {
 
 ### `❯ git log --grep="recognition"`
 
-**Smart India Hackathon** · Government of India
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%">
 
-| Year | Result | Build |
-|:----:|:-------|:------|
-| `2025` | 🏅 National Finalist | selected under the Ministry of Home Affairs |
-| `2024` | 🏅 National Finalist | AI-driven cybersecurity solution · top team of 15K+ |
-| `2023` | 🥇 **Winner** | blockchain product-verification system · 1st of 250+ teams |
+**`2023`**
+🥇 **Winner**
+1st of 250+ teams
+blockchain product-verification system
+
+</td>
+<td align="center" width="25%">
+
+**`2024`**
+🏅 National Finalist
+top team of 15K+
+AI-driven cybersecurity solution
+
+</td>
+<td align="center" width="25%">
+
+**`2025`**
+🏅 National Finalist
+Ministry of Home Affairs
+e-commerce platform image verification system
+
+</td>
+<td align="center" width="25%">
+
+**`2023`**
+🏆 **Winner**
+Frames · IIT Bombay
+Mood Indigo — online photography competition
+
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center">
+
+**Smart India Hackathon · Government of India**
+
+</td>
+<td align="center">
+
+**Mood Indigo · IIT Bombay**
+
+</td>
+</tr>
+</table>
 
 ---
 
